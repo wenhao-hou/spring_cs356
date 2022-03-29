@@ -1,4 +1,9 @@
-# spring_cs356
-CS356 -Lab01 - Jay Hou
-github username: houw@sou.edu
- This is for CS 356 spring term
+# lab1-starter
+
+See [https://teaching.defreez.com/cs257/labs/lab1/](https://teaching.defreez.com/cs257/labs/lab1/) for instructions.
+
+
+
+CS356 spring term 2022
+
+lab1-Jay Hou- houw@sou.edu
